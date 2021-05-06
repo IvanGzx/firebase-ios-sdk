@@ -16,7 +16,7 @@
 
 #import "Crashlytics/Shared/FIRCLSByteUtility.h"
 
-static NSInteger const FIRCLSUUIDStringLength = 33;
+static UInt8 const FIRCLSUUIDStringLength = 33;
 
 #pragma mark Public methods
 
